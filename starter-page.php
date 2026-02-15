@@ -1,5 +1,5 @@
 <?php 
-  $title = "Accueil"; 
+  $title = "starter"; 
   include("layout/header.php"); 
 ?>
 <body class="starter-page-page">
@@ -104,4 +104,5 @@
   </main>
  <?php 
   include("layout/footer.php"); 
+
 ?>
