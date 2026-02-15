@@ -95,3 +95,4 @@
     </div>
 
   </header>
+<body class="index-page">
