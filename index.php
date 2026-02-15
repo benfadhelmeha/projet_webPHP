@@ -2,7 +2,7 @@
   $title = "Accueil"; 
   include("layout/header.php"); 
 ?>
-<body class="index-page">
+
  
   <main class="main">
 
@@ -1026,3 +1026,4 @@
   include("layout/footer.php"); 
 
 ?>
+
