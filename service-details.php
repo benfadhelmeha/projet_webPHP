@@ -2,7 +2,7 @@
   $title = "service details "; 
   include("layout/header.php"); 
 ?>
-<body class="service-details-page">
+
 
   <main class="main">
 
@@ -85,3 +85,4 @@
   include("layout/footer.php"); 
 
 ?>
+
