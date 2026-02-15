@@ -37,6 +37,7 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<body class="index-page">
 <header id="header" class="header sticky-top">
 
     <div class="topbar d-flex align-items-center">
@@ -95,4 +96,5 @@
     </div>
 
   </header>
-<body class="index-page">
+
+
