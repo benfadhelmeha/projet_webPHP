@@ -2,7 +2,7 @@
   $title = "starter"; 
   include("layout/header.php"); 
 ?>
-<body class="starter-page-page">
+
   
   <main class="main">
 
@@ -47,4 +47,5 @@
   include("layout/footer.php"); 
 
 ?>
+
 
